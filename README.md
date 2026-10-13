@@ -68,7 +68,7 @@ I've gained hands-on experience through several internships, where I worked on:
 ![Docker](https://img.shields.io/badge/Docker-E6E0F8?style=flat-square&logo=docker&logoColor=5B3A57)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-E6E0F8?style=flat-square&logo=githubactions&logoColor=5B3A57)
 ![Git](https://img.shields.io/badge/Git-E6E0F8?style=flat-square&logo=git&logoColor=5B3A57)
-![Linux](https://img.shields.io/badge/Linux-E6E0F8?style=flat-square&logo=linux&logoColor=5B3A57)
+
 
 ### Architecture & Design
 ![Microservices](https://img.shields.io/badge/Microservices-F5EBDD?style=flat-square)
