@@ -36,6 +36,8 @@ I've gained hands-on experience through several internships, where I worked on:
 
 ## 🌷 Technologies & Tools
 
+*This is the stack I've worked with so far, not the limit of what I'm willing to learn.*
+
 ### Languages
 ![C](https://img.shields.io/badge/C-F8C8DC?style=flat-square&logo=c&logoColor=5B3A57)
 ![C++](https://img.shields.io/badge/C++-F8C8DC?style=flat-square&logo=cplusplus&logoColor=5B3A57)
@@ -77,6 +79,20 @@ I've gained hands-on experience through several internships, where I worked on:
 
 ### Methodologies
 ![Agile](https://img.shields.io/badge/Agile%20Methods%20%26%20Models-D45D8A?style=flat-square)
+
+---
+
+## 🌱 Curiosity & Adaptability
+
+I'm a curious and motivated person who enjoys learning new technologies. I don't see my current stack as a boundary: I'm ready to work with tools and frameworks I haven't used yet, depending on the needs and goals of a project.
+
+What drives me:
+
+- 🔍 **Discovering new tools** and understanding how they fit into a larger system
+- ⚡ **Learning quickly** and adapting to different technical environments
+- 🧭 **Choosing and integrating technologies thoughtfully**, based on a project's architecture and technical decisions rather than habit
+
+I want to keep growing alongside the projects and teams I work with, and to be someone who can pick up what's needed to move things forward.
 
 ---
 
