@@ -6,14 +6,14 @@
 
 *Building robust, scalable applications, one clean architecture at a time.*
 
-![Status](https://img.shields.io/badge/Open%20to-PFE%20Internship-1f6feb?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Morocco-2ea44f?style=for-the-badge)
+![Status](https://img.shields.io/badge/Open%20to-Final--Year%20Internship%20(PFE)-D45D8A?style=flat-square&labelColor=F8C8DC)
+![Location](https://img.shields.io/badge/Location-Morocco-DCD0F2?style=flat-square&labelColor=F5EBDD)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🌸 About Me
 
 I'm a Software Engineering student at the **IT Center of Excellence, Faculty of Sciences of Agadir (Ibn Zohr University)**. My profile is focused on **Full-Stack web development**, **software architecture**, and **microservices / hexagonal architectures**.
 
@@ -28,52 +28,69 @@ I've gained hands-on experience through several internships, where I worked on:
 - Engineering degree in Software Engineering, IT Center of Excellence FSA Agadir (2024 – present)
 - DUT in Computer Engineering, École Supérieure de Technologie, Essaouira (2022 – 2024)
 
-**🎯 Interests:** Full-Stack development · Software design & architecture · Microservices · Databases · Agile methodologies
+**💜 Interests:** Full-Stack development · Software design & architecture · Microservices · Databases · Agile methodologies
 
-**🚀 Professional goal:** I'm looking for a **final-year internship (PFE)** where I can apply my skills in software design, databases, and Agile methods, and contribute to building reliable, scalable applications.
+**🎯 Professional goal:** I'm looking for a **final-year internship (PFE)** where I can apply my skills in software design, databases, and Agile methods, and contribute to building reliable, scalable applications.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌷 Technologies & Tools
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,py,php,js&theme=light)
+![C](https://img.shields.io/badge/C-F8C8DC?style=flat-square&logo=c&logoColor=5B3A57)
+![C++](https://img.shields.io/badge/C++-F8C8DC?style=flat-square&logo=cplusplus&logoColor=5B3A57)
+![Java](https://img.shields.io/badge/Java-F8C8DC?style=flat-square&logo=openjdk&logoColor=5B3A57)
+![Python](https://img.shields.io/badge/Python-F8C8DC?style=flat-square&logo=python&logoColor=5B3A57)
+![PHP](https://img.shields.io/badge/PHP-F8C8DC?style=flat-square&logo=php&logoColor=5B3A57)
+![JavaScript](https://img.shields.io/badge/JavaScript-F8C8DC?style=flat-square&logo=javascript&logoColor=5B3A57)
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind&theme=light)
+![HTML](https://img.shields.io/badge/HTML-DCD0F2?style=flat-square&logo=html5&logoColor=5B3A57)
+![CSS](https://img.shields.io/badge/CSS-DCD0F2?style=flat-square&logo=css&logoColor=5B3A57)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-DCD0F2?style=flat-square&logo=bootstrap&logoColor=5B3A57)
+![React](https://img.shields.io/badge/React.js-DCD0F2?style=flat-square&logo=react&logoColor=5B3A57)
+![Next.js](https://img.shields.io/badge/Next.js-DCD0F2?style=flat-square&logo=nextdotjs&logoColor=5B3A57)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-DCD0F2?style=flat-square&logo=tailwindcss&logoColor=5B3A57)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=laravel,codeigniter,django,express&theme=light)
+![Laravel](https://img.shields.io/badge/Laravel-EBDDCB?style=flat-square&logo=laravel&logoColor=5B3A57)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EBDDCB?style=flat-square&logo=codeigniter&logoColor=5B3A57)
+![Django](https://img.shields.io/badge/Django-EBDDCB?style=flat-square&logo=django&logoColor=5B3A57)
+![Express.js](https://img.shields.io/badge/Express.js-EBDDCB?style=flat-square&logo=express&logoColor=5B3A57)
 
 ### Databases
-![Databases](https://skillicons.dev/icons?i=postgres,mysql&theme=light)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FADADD?style=flat-square&logo=postgresql&logoColor=5B3A57)
+![MySQL](https://img.shields.io/badge/MySQL-FADADD?style=flat-square&logo=mysql&logoColor=5B3A57)
 
 ### DevOps & Tools
-![DevOps](https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=light)
+![Docker](https://img.shields.io/badge/Docker-E6E0F8?style=flat-square&logo=docker&logoColor=5B3A57)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-E6E0F8?style=flat-square&logo=githubactions&logoColor=5B3A57)
+![Git](https://img.shields.io/badge/Git-E6E0F8?style=flat-square&logo=git&logoColor=5B3A57)
+![Linux](https://img.shields.io/badge/Linux-E6E0F8?style=flat-square&logo=linux&logoColor=5B3A57)
 
 ### Architecture & Design
-![Microservices](https://img.shields.io/badge/Microservices-1f6feb?style=for-the-badge)
-![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-1f6feb?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-1f6feb?style=for-the-badge)
-![Merise](https://img.shields.io/badge/Merise-1f6feb?style=for-the-badge)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-1f6feb?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-F5EBDD?style=flat-square)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal%20Architecture-F5EBDD?style=flat-square)
+![UML](https://img.shields.io/badge/UML-F5EBDD?style=flat-square)
+![Merise](https://img.shields.io/badge/Merise-F5EBDD?style=flat-square)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-F5EBDD?style=flat-square)
 
 ### Methodologies
-![Agile](https://img.shields.io/badge/Agile%20Methods%20%26%20Models-2ea44f?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%20Methods%20%26%20Models-D45D8A?style=flat-square)
 
 ---
 
-## 📫 Let's Connect
+## 💌 Let's Connect
 
 I'm open to PFE internship opportunities and always happy to talk about software engineering.
 
-[![Email](https://img.shields.io/badge/Email-ntaikouk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ntaikouk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nassima%20Taikouk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nassima-taikouk-2053b4363)
+[![Email](https://img.shields.io/badge/Email-ntaikouk%40gmail.com-D45D8A?style=flat-square&logo=gmail&logoColor=white)](mailto:ntaikouk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nassima%20Taikouk-DCD0F2?style=flat-square&logo=linkedin&logoColor=5B3A57)](https://www.linkedin.com/in/nassima-taikouk-2053b4363)
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my profile! ✨*
+*Thanks for visiting my profile! 🌸*
 
 </div>
